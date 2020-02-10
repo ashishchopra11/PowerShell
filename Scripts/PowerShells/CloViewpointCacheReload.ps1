@@ -1,0 +1,1 @@
+Invoke-RestMethod -Method Get -Uri http://clo.hcmlp.com/api/Deal/Portfolio/ReloadCache
